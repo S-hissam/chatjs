@@ -1,0 +1,61 @@
+.container{
+  max-width: 600px;
+}
+.btn{
+  background: #43d9be;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn:focus{
+  outline: none !important;
+}
+
+.username{
+  font-weight: bold;
+}
+
+
+.time{
+  font-size: 0.7em;
+  color: #999;
+}
+
+.chat-window{
+  width: 100%;
+  height: 40vh;
+  background: #eee;
+  border-radius: 10px;
+  padding: 10px;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+
+.chat-listim{
+  list-style: none;
+  margin: 2px 0;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.chat-roomss{
+  list-style: none;
+  margin: 2px 0;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+
+.btn:focus{
+  background: #43d9;
+}
+
+}
+
+.update-mssg{
+  text-align: center;
+  margin: 20px auto;
+  color: #43d9be;
+}
